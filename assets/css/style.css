@@ -1,0 +1,106 @@
+body { 
+	background-image: url("../images/background.png");
+	background-size: 100%;
+ }
+
+ h1 {
+     color: black;
+     background-color: aqua;
+     padding-top: 1rem;
+     padding-left: .5rem;
+     padding-bottom: 1rem;
+ }
+.header { 
+    margin-top: 2rem;
+    margin-bottom: .5rem;
+    font-family: 'DM Serif Text', serif;
+    font-size: 2.5rem;
+    font-weight: 500;
+    display: block;
+    
+  }
+
+.gameInstructions {
+    padding: 1rem;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+	background-color: yellow; 
+	opacity: 0.6; 
+	font-family: 'DM Serif Text', serif;
+	color: black;
+}
+
+.randomGenNumber {
+	padding: 1.5rem;
+	background-color: magenta; 
+	opacity: 0.6; 
+	color: aqua;
+	font-size: 2rem; 
+	font-family: 'DM Serif Text', serif; 
+}
+
+.card-img-top {
+    margin-left: 3rem;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+}
+
+
+.winLossCounter { 
+    color: black; 
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+	background-color: orange; 
+	opacity: 0.6; 
+    font-family: 'DM Serif Text', serif;
+    font-size: 1rem;
+ }
+
+ .winCounter .lossCounter { 
+
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    margin-top: 1.5rem;
+	font-family: 'DM Serif Text', serif; 
+   
+  }
+
+  .gemGroup {
+    padding: 1.5rem; 
+    margin-top: 1rem;
+    
+
+}
+
+.imageOne .imageTwo .imageThree .imageFour  {
+    z-index: 99;
+}
+
+
+
+ .totalScore {
+    margin-bottom: .5rem;
+ 	background-color: green; 
+	opacity: 0.6; 
+	font-family: 'DM Serif Text', serif;
+	color: black;
+
+ }
+
+ .scoreOutput {
+    padding-bottom: 2rem;
+    margin-bottom: 1.5rem;
+	background-color: white; 
+	opacity: 0.6; 
+	color: black;
+	font-size: 200%;
+    font-family: 'DM Serif Text', serif;
+    
+ }
+
+
+ 
+
+ 
